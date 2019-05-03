@@ -1,0 +1,361 @@
+Country	Exposure Lower	Exposure Mean	Exposure Upper	Year	Pollutant Name	Units
+Afghanistan	31	65	113	1990	PM25	µg/m3
+Afghanistan	26	57	103	2017	PM25	µg/m3
+Albania	15	23	33	1990	PM25	µg/m3
+Albania	12	18	27	2017	PM25	µg/m3
+Algeria	14	37	83	1990	PM25	µg/m3
+Algeria	13	39	89	2017	PM25	µg/m3
+American Samoa	6.9	12	21	1990	PM25	µg/m3
+American Samoa	6.7	12	21	2017	PM25	µg/m3
+Andorra	9.8	14	21	1990	PM25	µg/m3
+Andorra	7.5	10	16	2017	PM25	µg/m3
+Angola	12	36	84	1990	PM25	µg/m3
+Angola	12	32	71	2017	PM25	µg/m3
+Antigua and Barbuda	12	22	39	1990	PM25	µg/m3
+Antigua and Barbuda	9.9	19	32	2017	PM25	µg/m3
+Argentina	6.2	16	39	1990	PM25	µg/m3
+Argentina	5.4	13	31	2017	PM25	µg/m3
+Armenia	19	37	66	1990	PM25	µg/m3
+Armenia	16	33	59	2017	PM25	µg/m3
+Australia	5	10	22	1990	PM25	µg/m3
+Australia	4	8.6	18	2017	PM25	µg/m3
+Austria	10	17	25	1990	PM25	µg/m3
+Austria	8	12	18	2017	PM25	µg/m3
+Azerbaijan	11	24	48	1990	PM25	µg/m3
+Azerbaijan	8	20	41	2017	PM25	µg/m3
+Bahrain	47	68	94	1990	PM25	µg/m3
+Bahrain	49	71	99	2017	PM25	µg/m3
+Bangladesh	40	62	91	1990	PM25	µg/m3
+Bangladesh	38	61	86	2017	PM25	µg/m3
+Barbados	15	28	49	1990	PM25	µg/m3
+Barbados	12	23	39	2017	PM25	µg/m3
+Belarus	15	25	36	1990	PM25	µg/m3
+Belarus	11	19	30	2017	PM25	µg/m3
+Belgium	12	18	24	1990	PM25	µg/m3
+Belgium	8.6	13	17	2017	PM25	µg/m3
+Belize	8.4	27	64	1990	PM25	µg/m3
+Belize	9.1	23	50	2017	PM25	µg/m3
+Benin	16	40	113	1990	PM25	µg/m3
+Benin	13	39	113	2017	PM25	µg/m3
+Bermuda	7.3	12	18	1990	PM25	µg/m3
+Bermuda	7	12	18	2017	PM25	µg/m3
+Bhutan	24	40	68	1990	PM25	µg/m3
+Bhutan	24	40	65	1995	PM25	µg/m3
+Bhutan	23	40	65	2000	PM25	µg/m3
+Bhutan	24	43	72	2005	PM25	µg/m3
+Bhutan	25	44	77	2010	PM25	µg/m3
+Bhutan	24	43	70	2011	PM25	µg/m3
+Bhutan	24	43	77	2012	PM25	µg/m3
+Bhutan	24	42	72	2013	PM25	µg/m3
+Bhutan	23	41	70	2014	PM25	µg/m3
+Bhutan	23	40	67	2015	PM25	µg/m3
+Bhutan	21	37	64	2016	PM25	µg/m3
+Bhutan	22	38	66	2017	PM25	µg/m3
+Bolivia	9.2	24	45	1990	PM25	µg/m3
+Bolivia	9.7	25	47	1995	PM25	µg/m3
+Bolivia	10	26	54	2000	PM25	µg/m3
+Bolivia	12	29	64	2005	PM25	µg/m3
+Bolivia	11	30	62	2010	PM25	µg/m3
+Bolivia	11	28	55	2011	PM25	µg/m3
+Bolivia	9.8	26	55	2012	PM25	µg/m3
+Bolivia	9.3	26	53	2013	PM25	µg/m3
+Bolivia	8.4	25	52	2014	PM25	µg/m3
+Bolivia	8.8	22	47	2015	PM25	µg/m3
+Bolivia	7.6	21	46	2016	PM25	µg/m3
+Bolivia	8	22	44	2017	PM25	µg/m3
+Bosnia and Herzegovina	17	30	50	1990	PM25	µg/m3
+Bosnia and Herzegovina	14	28	46	2017	PM25	µg/m3
+Botswana	11	25	53	1990	PM25	µg/m3
+Botswana	10	23	44	2017	PM25	µg/m3
+Brazil	12	15	18	1990	PM25	µg/m3
+Brazil	10	13	15	2017	PM25	µg/m3
+Brunei	4.6	6.7	9.1	1990	PM25	µg/m3
+Brunei	4.1	5.9	8.1	2017	PM25	µg/m3
+Bulgaria	17	28	46	1990	PM25	µg/m3
+Bulgaria	12	19	31	2017	PM25	µg/m3
+Burkina Faso	14	46	120	1990	PM25	µg/m3
+Burkina Faso	12	43	110	2017	PM25	µg/m3
+Burundi	15	41	91	1990	PM25	µg/m3
+Burundi	15	39	85	2017	PM25	µg/m3
+Cambodia	15	29	53	1990	PM25	µg/m3
+Cambodia	13	26	49	2017	PM25	µg/m3
+Cameroon	23	75	166	1990	PM25	µg/m3
+Cameroon	22	73	168	2017	PM25	µg/m3
+Canada	4.9	8.2	12	1990	PM25	µg/m3
+Canada	3.9	6.4	8.9	2017	PM25	µg/m3
+Cape Verde	16	36	68	1990	PM25	µg/m3
+Cape Verde	16	35	68	2017	PM25	µg/m3
+Central African Republic	15	53	136	1990	PM25	µg/m3
+Central African Republic	14	57	154	2017	PM25	µg/m3
+Chad	15	66	179	1990	PM25	µg/m3
+Chad	15	66	194	2017	PM25	µg/m3
+Chile	12	25	37	1990	PM25	µg/m3
+Chile	9.1	21	33	2017	PM25	µg/m3
+China	45	58	67	1990	PM25	µg/m3
+China	41	53	63	2017	PM25	µg/m3
+Colombia	8.2	20	44	1990	PM25	µg/m3
+Colombia	6.6	17	35	2017	PM25	µg/m3
+Comoros	11	22	42	1990	PM25	µg/m3
+Comoros	9.7	21	38	2017	PM25	µg/m3
+Congo	14	47	122	1990	PM25	µg/m3
+Congo	13	47	122	2017	PM25	µg/m3
+Costa Rica	11	18	25	1990	PM25	µg/m3
+Costa Rica	9.5	16	21	2017	PM25	µg/m3
+Cote d'Ivoire	9	26	60	1990	PM25	µg/m3
+Cote d'Ivoire	8.7	26	58	2017	PM25	µg/m3
+Croatia	14	22	35	1990	PM25	µg/m3
+Croatia	11	18	28	2017	PM25	µg/m3
+Cuba	8.4	24	49	1990	PM25	µg/m3
+Cuba	7.1	20	38	2017	PM25	µg/m3
+Cyprus	15	21	29	1990	PM25	µg/m3
+Cyprus	13	17	24	2017	PM25	µg/m3
+Czech Republic	15	24	44	1990	PM25	µg/m3
+Czech Republic	11	16	28	2017	PM25	µg/m3
+Democratic Republic of the Congo	13	43	107	1990	PM25	µg/m3
+Democratic Republic of the Congo	12	45	106	2017	PM25	µg/m3
+Denmark	9.4	13	18	1990	PM25	µg/m3
+Denmark	7.3	10	13	2017	PM25	µg/m3
+Djibouti	15	41	94	1990	PM25	µg/m3
+Djibouti	14	46	114	2017	PM25	µg/m3
+Dominica	12	23	43	1990	PM25	µg/m3
+Dominica	10	19	33	2017	PM25	µg/m3
+Dominican Republic	6.3	15	32	1990	PM25	µg/m3
+Dominican Republic	5.6	14	28	2017	PM25	µg/m3
+Ecuador	10	18	30	1990	PM25	µg/m3
+Ecuador	8.3	15	25	2017	PM25	µg/m3
+Egypt	34	75	138	1990	PM25	µg/m3
+Egypt	34	87	164	2017	PM25	µg/m3
+El Salvador	17	31	51	1990	PM25	µg/m3
+El Salvador	13	24	41	2017	PM25	µg/m3
+Equatorial Guinea	19	51	116	1990	PM25	µg/m3
+Equatorial Guinea	19	53	121	2017	PM25	µg/m3
+Eritrea	16	47	105	1990	PM25	µg/m3
+Eritrea	16	48	115	2017	PM25	µg/m3
+Estonia	6.4	9.1	12	1990	PM25	µg/m3
+Estonia	4.8	6.7	9.1	2017	PM25	µg/m3
+Ethiopia	24	36	54	1990	PM25	µg/m3
+Ethiopia	26	39	58	2017	PM25	µg/m3
+Federated States of Micronesia	4.8	14	30	1990	PM25	µg/m3
+Federated States of Micronesia	4.1	11	23	2017	PM25	µg/m3
+Fiji	5.1	13	26	1990	PM25	µg/m3
+Fiji	4	11	22	2017	PM25	µg/m3
+Finland	4.4	7.4	10	1990	PM25	µg/m3
+Finland	3.8	5.9	7.8	2017	PM25	µg/m3
+France	10	16	24	1990	PM25	µg/m3
+France	8.1	12	16	2017	PM25	µg/m3
+Gabon	15	43	98	1990	PM25	µg/m3
+Gabon	15	44	103	2017	PM25	µg/m3
+Georgia	13	27	45	1990	PM25	µg/m3
+Georgia	11	22	37	2017	PM25	µg/m3
+Germany	11	17	25	1990	PM25	µg/m3
+Germany	8.6	12	17	2017	PM25	µg/m3
+Ghana	12	36	82	1990	PM25	µg/m3
+Ghana	12	35	86	2017	PM25	µg/m3
+Greece	13	21	31	1990	PM25	µg/m3
+Greece	10	16	26	2017	PM25	µg/m3
+Greenland	6.4	15	29	1990	PM25	µg/m3
+Greenland	4.9	12	25	2017	PM25	µg/m3
+Grenada	13	28	53	1990	PM25	µg/m3
+Grenada	11	23	43	2017	PM25	µg/m3
+Guam	7.4	12	18	1990	PM25	µg/m3
+Guam	7.1	12	19	2017	PM25	µg/m3
+Guatemala	16	30	45	1990	PM25	µg/m3
+Guatemala	14	24	36	2017	PM25	µg/m3
+Guinea	9.2	25	56	1990	PM25	µg/m3
+Guinea	8.6	26	69	2017	PM25	µg/m3
+Guinea-Bissau	13	31	65	1990	PM25	µg/m3
+Guinea-Bissau	12	25	59	2017	PM25	µg/m3
+Guyana	8	22	57	1990	PM25	µg/m3
+Guyana	8.4	17	50	2017	PM25	µg/m3
+Haiti	7	15	37	1990	PM25	µg/m3
+Haiti	5.9	15	31	2016	PM25	µg/m3
+Honduras	6.3	27	33	2017	PM25	µg/m3
+Honduras	15	21	47	1990	PM25	µg/m3
+Hungary	11	22	35	2017	PM25	µg/m3
+Hungary	15	16	32	1990	PM25	µg/m3
+Iceland	11	8.4	22	2017	PM25	µg/m3
+Iceland	5	6.5	18	1990	PM25	µg/m3
+India	4.2	81	14	2017	PM25	µg/m3
+India	64	91	100	1990	PM25	µg/m3
+Indonesia	67	18	114	2017	PM25	µg/m3
+Indonesia	14	17	25	1990	PM25	µg/m3
+Iran	13	38	22	2017	PM25	µg/m3
+Iran	34	39	43	1990	PM25	µg/m3
+Iraq	34	64	45	2017	PM25	µg/m3
+Iraq	30	62	119	1990	PM25	µg/m3
+Ireland	29	10	110	2017	PM25	µg/m3
+Ireland	7.6	8.2	14	1990	PM25	µg/m3
+Israel	6.1	25	10	2017	PM25	µg/m3
+Israel	15	21	41	1990	PM25	µg/m3
+Italy	13	21	44	2017	PM25	µg/m3
+Italy	11	17	37	1990	PM25	µg/m3
+Jamaica	8.6	16	28	2017	PM25	µg/m3
+Jamaica	11	13	25	1990	PM25	µg/m3
+Japan	8.7	14	22	2017	PM25	µg/m3
+Japan	13	12	16	1990	PM25	µg/m3
+Jordan	10	35	13	2017	PM25	µg/m3
+Jordan	21	33	61	1990	PM25	µg/m3
+Kazakhstan	19	17	54	2017	PM25	µg/m3
+Kazakhstan	4.1	14	44	1990	PM25	µg/m3
+Kenya	3.1	29	38	2017	PM25	µg/m3
+Kenya	25	29	32	1990	PM25	µg/m3
+Kiribati	26	13	32	2017	PM25	µg/m3
+Kiribati	5.1	11	26	1990	PM25	µg/m3
+Kuwait	4.2	61	22	2017	PM25	µg/m3
+Kuwait	38	61	94	1990	PM25	µg/m3
+Kyrgyzstan	39	26	91	2017	PM25	µg/m3
+Kyrgyzstan	9.7	23	64	1990	PM25	µg/m3
+Laos	7.8	27	55	2017	PM25	µg/m3
+Laos	12	25	46	1990	PM25	µg/m3
+Latvia	9.9	19	45	2017	PM25	µg/m3
+Latvia	11	17	35	1990	PM25	µg/m3
+Latvia	10	13	31	1995	PM25	µg/m3
+Lebanon	7.8	30	24	2017	PM25	µg/m3
+Lebanon	21	31	43	1990	PM25	µg/m3
+Lesotho	21	31	43	2017	PM25	µg/m3
+Lesotho	18	28	49	1990	PM25	µg/m3
+Liberia	16	17	46	2017	PM25	µg/m3
+Liberia	8.8	18	30	1990	PM25	µg/m3
+Libya	8.9	45	34	2017	PM25	µg/m3
+Libya	16	54	104	1990	PM25	µg/m3
+Lithuania	16	16	135	2017	PM25	µg/m3
+Lithuania	12	12	23	1990	PM25	µg/m3
+Luxembourg	8.6	14	16	2017	PM25	µg/m3
+Luxembourg	10	10	17	1990	PM25	µg/m3
+Macedonia	7.7	42	13	2017	PM25	µg/m3
+Macedonia	24	40	78	1990	PM25	µg/m3
+Macedonia	23	30	72	1995	PM25	µg/m3
+Madagascar	18	22	51	2017	PM25	µg/m3
+Madagascar	11	23	38	1990	PM25	µg/m3
+Malawi	11	26	38	2017	PM25	µg/m3
+Malawi	9.8	24	58	1990	PM25	µg/m3
+Malaysia	9.7	17	47	2017	PM25	µg/m3
+Malaysia	7.5	16	28	1990	PM25	µg/m3
+Maldives	6.7	11	26	2017	PM25	µg/m3
+Maldives	8.2	7.8	15	1990	PM25	µg/m3
+Mali	5.6	42	11	2017	PM25	µg/m3
+Mali	10	39	115	1990	PM25	µg/m3
+Malta	9.6	17	116	2017	PM25	µg/m3
+Malta	13	14	22	1990	PM25	µg/m3
+Marshall Islands	10	13	18	2017	PM25	µg/m3
+Marshall Islands	5.4	10	25	1990	PM25	µg/m3
+Mauritania	4.4	50	20	2017	PM25	µg/m3
+Mauritania	12	47	140	1990	PM25	µg/m3
+Mauritius	12	16	135	2017	PM25	µg/m3
+Mauritius	8.3	14	29	1990	PM25	µg/m3
+Mexico	7.2	24	27	2017	PM25	µg/m3
+Mexico	18	21	30	1990	PM25	µg/m3
+Moldova	14	23	27	2017	PM25	µg/m3
+Moldova	13	16	36	1990	PM25	µg/m3
+Mongolia	9.9	38	26	2017	PM25	µg/m3
+Mongolia	8.4	40	81	1990	PM25	µg/m3
+Montenegro	9.1	29	73	2017	PM25	µg/m3
+Montenegro	18	21	41	1990	PM25	µg/m3
+Morocco	14	30	30	2017	PM25	µg/m3
+Morocco	17	33	53	1990	PM25	µg/m3
+Mozambique	17	23	55	2017	PM25	µg/m3
+Mozambique	10	21	50	1990	PM25	µg/m3
+Myanmar	9.5	40	43	2017	PM25	µg/m3
+Myanmar	24	36	61	1990	PM25	µg/m3
+Namibia	21	29	58	2017	PM25	µg/m3
+Namibia	10	25	62	1990	PM25	µg/m3
+Nepal	9.6	88	53	2017	PM25	µg/m3
+Nepal	41	100	156	1990	PM25	µg/m3
+Netherlands	45	16	180	2017	PM25	µg/m3
+Netherlands	13	12	21	1990	PM25	µg/m3
+New Zealand	9.6	7.1	15	2017	PM25	µg/m3
+New Zealand	4.7	6	11	1990	PM25	µg/m3
+Nicaragua	3.9	23	9.2	2017	PM25	µg/m3
+Nicaragua	10	18	38	1990	PM25	µg/m3
+Niger	8.4	91	30	2017	PM25	µg/m3
+Niger	20	94	294	1990	PM25	µg/m3
+Nigeria	19	72	307	2017	PM25	µg/m3
+Nigeria	22	72	240	1990	PM25	µg/m3
+Northern Mariana Islands	19	11	271	2017	PM25	µg/m3
+Northern Mariana Islands	7.1	9.9	17	1990	PM25	µg/m3
+North Korea	5.9	38	16	2017	PM25	µg/m3
+North Korea	23	32	60	1990	PM25	µg/m3
+Norway	19	9	48	2017	PM25	µg/m3
+Norway	7.7	7	10	1990	PM25	µg/m3
+Oman	6	40	7.7	2017	PM25	µg/m3
+Oman	20	41	72	1990	PM25	µg/m3
+Pakistan	20	60	77	2017	PM25	µg/m3
+Pakistan	30	58	107	1990	PM25	µg/m3
+Palestine	31	34	106	2017	PM25	µg/m3
+Palestine	19	33	58	1990	PM25	µg/m3
+Panama	18	13	60	2017	PM25	µg/m3
+Panama	7.6	11	22	1990	PM25	µg/m3
+Papua New Guinea	6.2	15	18	2017	PM25	µg/m3
+Papua New Guinea	4.1	12	39	1990	PM25	µg/m3
+Paraguay	3.4	14	35	2017	PM25	µg/m3
+Paraguay	7.1	12	23	1990	PM25	µg/m3
+Peru	5.6	29	21	2017	PM25	µg/m3
+Peru	11	25	54	1990	PM25	µg/m3
+Philippines	8.9	22	51	2017	PM25	µg/m3
+Philippines	9.3	18	36	1990	PM25	µg/m3
+Poland	7.8	30	29	2017	PM25	µg/m3
+Poland	16	21	49	1990	PM25	µg/m3
+Portugal	11	10	33	2017	PM25	µg/m3
+Portugal	6.2	8.2	16	1990	PM25	µg/m3
+Puerto Rico	4.9	8.2	13	2017	PM25	µg/m3
+Puerto Rico	4.7	8.3	13	1990	PM25	µg/m3
+Qatar	4.6	92	13	2017	PM25	µg/m3
+Qatar	54	91	147	1990	PM25	µg/m3
+Romania	55	20	141	2017	PM25	µg/m3
+Romania	13	15	33	1990	PM25	µg/m3
+Russian Federation	9.1	21	22	2017	PM25	µg/m3
+Russian Federation	16	16	28	1990	PM25	µg/m3
+Rwanda	13	46	20	2017	PM25	µg/m3
+Rwanda	15	43	102	1990	PM25	µg/m3
+Saint Lucia	15	27	100	2017	PM25	µg/m3
+Saint Lucia	14	22	49	1990	PM25	µg/m3
+Saint Vincent and the Grenadines	12	27	39	2017	PM25	µg/m3
+Saint Vincent and the Grenadines	13	22	52	1990	PM25	µg/m3
+Samoa	11	14	42	2017	PM25	µg/m3
+Seychelles	4.5	20	32	1990	PM25	µg/m3
+Sierra Leone	11	21	37	2017	PM25	µg/m3
+Somalia	9	32	43	1990	PM25	µg/m3
+South Africa	22	26	72	2017	PM25	µg/m3
+Sudan	20	55	32	1990	PM25	µg/m3
+Suriname	10	30	143	2017	PM25	µg/m3
+Taiwan	9.2	23	64	1990	PM25	µg/m3
+Tajikistan	16	51	32	2017	PM25	µg/m3
+Tajikistan	15	46	104	1990	PM25	µg/m3
+Tanzania	13	30	106	2017	PM25	µg/m3
+Tanzania	12	29	64	1990	PM25	µg/m3
+Thailand	16	31	67	2017	PM25	µg/m3
+Thailand	14	26	47	1990	PM25	µg/m3
+The Bahamas	8.5	21	41	2017	PM25	µg/m3
+The Bahamas	15	17	41	1990	PM25	µg/m3
+The Gambia	15	35	34	2017	PM25	µg/m3
+The Gambia	8.3	34	68	1990	PM25	µg/m3
+Timor-Leste	7.4	23	67	2017	PM25	µg/m3
+Timor-Leste	14	19	48	1990	PM25	µg/m3
+Togo	13	38	40	2017	PM25	µg/m3
+Togo	5	36	91	1990	PM25	µg/m3
+Tonga	4.2	13	80	2017	PM25	µg/m3
+Tonga	13	11	26	1990	PM25	µg/m3
+Trinidad and Tobago	11	29	22	2017	PM25	µg/m3
+Trinidad and Tobago	20	24	60	1990	PM25	µg/m3
+Tunisia	20	36	48	2017	PM25	µg/m3
+Tunisia	26	38	62	1990	PM25	µg/m3
+Turkey	27	43	69	2017	PM25	µg/m3
+Turkey	8.4	44	64	1990	PM25	µg/m3
+Turkmenistan	7.1	25	68	2017	PM25	µg/m3
+Turkmenistan	20	22	59	1990	PM25	µg/m3
+Uganda	21	48	45	2017	PM25	µg/m3
+Uganda	11	50	95	1990	PM25	µg/m3
+Ukraine	9.2	28	97	2017	PM25	µg/m3
+Ukraine	23	20	60	1990	PM25	µg/m3
+United Arab Emirates	23	40	44	2017	PM25	µg/m3
+United Arab Emirates	13	41	66	1990	PM25	µg/m3
+United Kingdom	9.7	14	72	2017	PM25	µg/m3
+United Kingdom	8	10	14	1990	PM25	µg/m3
+United States	6.1	9.7	11	2017	PM25	µg/m3
+United States	6.5	7.4	11	1990	PM25	µg/m3
+Uruguay	5.4	11	8.5	2017	PM25	µg/m3
+Uruguay	9.1	9.3	19	1990	PM25	µg/m3
+Uzbekistan	16	36	17	2017	PM25	µg/m3
+Yemen	9.5	50	85	1990	PM25	µg/m3
+Zambia		33	126	2017	PM25	µg/m3
+			81	1990	PM25	µg/m3
